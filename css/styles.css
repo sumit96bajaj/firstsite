@@ -1,0 +1,96 @@
+body{
+font-family: 'Merriweather', serif;
+  background-color:white;
+  margin-top: 0;
+  margin-left: 0;
+  text-align: center;
+}
+h1{
+  color: #66BFBF;
+  margin: 0;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+p{
+  color: #40514E;
+}
+hr{
+ color:#EAF6F6;
+ margin:0 auto 0 auto;
+}
+.Top{
+background-color: #EAF6F6;
+}
+.topcloud{
+  position: relative;
+  left: 350px;
+}
+.mount{
+  display: block;
+  margin: 0 auto 0 auto;
+  padding-bottom: 20px;
+}
+.bottomcloud{
+  position: relative;
+  right: 350px;
+}
+.minephoto{
+  padding-top: 50px;
+}
+.intro{
+  padding-bottom: 20px;
+  width:30%;
+  margin: 0 auto 0 auto;
+    line-height: 1.5;
+}
+.para{
+  color:#EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width:5px;
+  height: 0px;
+}
+.design{
+  color: black;
+  width:30%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  padding-bottom: 20px;
+  line-height: 1.5;
+}
+.skill2{
+  position: relative;
+}
+.certified{
+position: absolute;
+right:35%;
+  top: 20%;
+  color: black;
+  width:30%;
+  margin: 0 auto 0 auto;
+  text-align: right;
+  padding-top: 20px;
+  line-height: 1.5;
+}
+.flt{
+  float: left;
+  margin-left: 7%;
+}
+.dev{
+  position: relative;
+  right: 15%;
+}
+.car{
+  position: relative;
+  left:20%;
+}
+.bottom{
+  margin-right: 0;
+  background-color: #EAF6F6;
+  padding-bottom: 1%;
+}
